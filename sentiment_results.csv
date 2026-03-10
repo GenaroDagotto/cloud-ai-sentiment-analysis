@@ -1,0 +1,18 @@
+id,text,sentiment,positive_score,neutral_score,negative_score
+1,Belief in yourself has to be earned.,neutral,0.22,0.73,0.04
+2,The three lessons: 1) Effortless is a myth 2) It is only a point 3) Life is bigger than the court. Thanks Roger!,positive,0.99,0.01,0.0
+3,Fascinating that he won about 80% of all singles matches he played but only 54% of the total points played. Those key points are vital.,positive,0.8,0.19,0.01
+4,This speech took 20 years of hard work.,neutral,0.01,0.99,0.0
+5,"This great champion has no shame showing his heart and tears when touched. He’s a wonderful role model for boys and men, not just for his tennis.",positive,0.97,0.02,0.01
+6,Never have I seen a billionaire who just doesn't seem like it at all. It's why he was voted most popular player every single year he played.,negative,0.03,0.38,0.59
+7,Negative energy is wasted energy. Become a master of overcoming bad moments. That is the sign of a champion.,mixed,0.28,0.26,0.45
+8,"The crowd loved the speech. It truly was a memorable speech, and I will never forget that I was there. Awesome experience.",positive,0.96,0.04,0.0
+9,Anyone annoyed with the noise that’s in the background?,negative,0.0,0.33,0.66
+10,"At 83 years old and having listened to hundreds of commencement addresses, this gentleman has spoken clearly and well.",positive,0.75,0.25,0.0
+11,Effortless is a myth. Work very hard to make it look easy. Life is much bigger than the tennis court.,positive,0.97,0.0,0.03
+12,That was heartfelt. He choked in the end. Thank you.,mixed,0.36,0.21,0.43
+13,He is a role model the younger generations need and he is leaving his mark.,neutral,0.38,0.44,0.18
+14,"Such a humble man. That’s why he is the greatest, the real GOAT.",positive,0.88,0.11,0.02
+15,He is a wonderful human being. Thank you Roger.,positive,0.99,0.01,0.0
+16,Why am I in tears? This man is just a real human. He’s such a kind person.,mixed,0.49,0.09,0.42
+17,What an honor to have Roger Federer speak at any commencement service. Such a class act.,mixed,0.67,0.1,0.22
